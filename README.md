@@ -1,0 +1,1 @@
+This repository contains both coursework and examination marks from my graded years at Lancaster University. Module titles beginning with a 2** are from my second year and modules beginning with 3** are from my third year. 
